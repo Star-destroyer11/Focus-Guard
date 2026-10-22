@@ -13,14 +13,12 @@ Focus Guard is a Tampermonkey userscript for spoofing and bypassing browser focu
 
 - **Open/Hide Panel:** Press `Alt + Shift + G`.
 - **Monitor Events:** View browser focus and visibility events in real time.
-- **Configure Overrides:** Enable page-level visibility and focus overrides in the control panel.
-- **Fullscreen Simulator:** Test fullscreen-dependent website behavior.
-- **Export Logs:** Click **Export JSON** to download event history for analysis.
-- **Clear Logs:** Click **Clear log** to erase recorded events.
+- **Configure Overrides:** Enable page-level visibility and focus overrides.
+- **Fullscreen Bypass:** Bypass fullscreen-dependent website behavior.
 
 ## Settings
 
-Monitoring is enabled by default, while page overrides and fullscreen simulation are disabled. Settings and event history are saved using Tampermonkey storage.
+Monitoring is enabled by default, while page overrides and fullscreen simulation are disabled. Tampermonkey storage saves settings and event history.
 
 ## Disclaimer
 
